@@ -1,0 +1,22 @@
+Area,Personnel,Total farmers visited,Active farmers,Farmers ID,Co-ordinates,Allocated land size,Farmers name,ID number,Age,Cell number,Date,seedlings planted,Transplanting completion Date,Sabelo needs to visit,Cancel letter issued,Grower contracts,Contracts received at office,Letter of land authority at HQ,Irrigation,0.1,0.25,0.5,1,Tank,Tank - 5000,Tank - 10000,Soil received/or not,Soil type,Fertilizer program cost,Seedling alocation,Source of water,Note,Cost for Irrigation - Excl VAT,Tank cost Excl VAT,Spray cost,Prep Land - 22/08/2025,Prep land (round up used),Male (0) / Female (1)
+KWADUKUZA,Nonjabulo Xulu,1,0,KC0001,"29°23'16.3""S 31°16'35.5""E",0,Maqomfini,,,0-726601562,20250609,CANCELLED,NO WATER,,,,,,,,,,,,,,,,,,,,,,,,,
+KWADUKUZA,Nonjabulo Xulu,1,0,KC0002,"29°23'31.8""S 31°16'49.8""E",0,Njekele area,,,0-767374530,20250609,CANCELLED,NO WATER,,,,,,,,,,,,,,,,,,,,,,,,,
+KWADUKUZA,Nonjabulo Xulu,1,0,KC0003,"29°23'32.2""S 31°16'54.5""E",0,Njekele area,,,0-780324325,20250609,CANCELLED,NO WATER,,,,,,,,,,,,,,,,,,,,,,,,,
+KWADUKUZA,Nonjabulo Xulu,1,0,KC0004,"29°23'01.4""S 31°16'58.5""E",0,Njekele area,,,0-734183262,20250609,CANCELLED,NO WATER,,,,,,,,,,,,,,,,,,,,,,,,,
+KWADUKUZA,Nonjabulo Xulu,1,0,KC0005,"29°23'33.1""S 31°16'54.0""E",0,Siyabonga Xaba,,,0-713834298,20250612,CANCELLED,NO WATER,,,,,,,,,,,,,,,,,,,,,,,,,
+KWADUKUZA,Nonjabulo Xulu,1,0,KC0006,"29°32'07.5""S 31°02'54.8""E",0,Vumile Mthethwa,,,0-714783148,20250617,CANCELLED,NO WATER,,,,,,,,,,,,,,,,,,,,,,,,,
+KWADUKUZA,Sabelo,1,1,KC0007,"29°21'21.5""S 31°12'11.2""E",2.5,Sibathathu ( Mgigimbe),0303225424082,22,0602587475,20250619,30400,10/10/2025,SV,YES,1,1,1,0.25,,,0.5,,1,1,,,ST0002,,0,River,,R0.00,R0.00,R0.00,1,round up and clearing,0
+KWADUKUZA,Sabelo,1,1,KC0019,"29°23'29.6""S 31°16'35.3""E",0.25,Wigy Farm,7304090378083,52,0640650645,20250707,3800,27/09/2025,SV,YES,1,1,1,0.25,,1,,,,,,,ST0008,"R3,360.25",0,Borehole,,,,R0.00,1,,1
+KWADUKUZA,Nonjabulo Xulu,1,0,KC0020,"29°23'53.4""S 31°16'47.9""E",0,Miss Nxumalo,,,0-727229712,20250707,,?,SV,,,,,,,,,,,,,,,,,,,,,,,,
+KWADUKUZA,Nonjabulo Xulu,1,0,KC0021,"29°23'57.1""S 31°16'45.1""E",0,Miss Ngubane,,,0-748398220,20250707,,,SV,,,,,,,,,,,,,,,,,,,,,,,,
+KWADUKUZA,Nonjabulo Xulu,1,0,KC0022,"29°23'54.2""S 31°16'44.7""E",0,Thembeni Mkhondeni,,,0-723192756,20250707,,,SV,,,,,,,,,,,,,,,,,,,,,,,,
+KWADUKUZA,Nonjabulo Xulu,1,0,KC0023,"29°23'53.5""S 31°16'48.0""E",0,Thembeni Madladla,,,0-727229712,20250707,,,SV,,,,,,,,,,,,,,,,,,,,,,,,
+KWADUKUZA,Nonjabulo Xulu,1,0,KC0024,"29°23'57.0""S 31°16'50.4""E",0,Thembeni- Marhadebe,,,0-727229712,20250707,,,SV,,,,,,,,,,,,,,,,,,,,,,,,
+KWADUKUZA,Nonjabulo Xulu,1,0,KC0025,"29°12'31.6""S 31°14'52.5""E",0,Basell Ollimans,,,0-682781833,20250707,CANCELLED,PRICE NOT RIGHT,,LETTER,,,,,,,,,,,,,,,,,,,,,,,
+KWADUKUZA,Nonjabulo Xulu,1,0,KC0026,"29°12'04.8""S 31°15'33.3""E",0,DORINGKOP,,, 0-631881872,20250707,,,SV,,,,,,,,,,,,,,,,,,,,,,,,
+KWADUKUZA,Nonjabulo Xulu,1,0,KC0027,"29°12'03.3""S 31°15'32.8""E",0,DORINGKOP,,,0-649680294,20250707,,,SV,,,,,,,,,,,,,,,,,,,,,,,,
+KWADUKUZA,Nonjabulo Xulu,1,0,KC0028,"29°12'03.3""S 31°15'32.8""E",0,DORINGKOP,,,0-790290380,,,,SV,,,,,,,,,,,,,,,,,,,,,,,,
+KWADUKUZA,Nonjabulo Xulu,1,0,KC0029,"29°12'03.3""S 31°15'32.8""E",0,DORINGKOP,,,0-631881872,,,,SV,,,,,,,,,,,,,,,,,,,,,,,,
+KWADUKUZA,Sabelo,1,1,KC0036,"29°23'10.3""S 31°13'46.2""E",0.5,Harry De Silva,7405170809083,51,840516180,,8000,6/10/2025,,YES,1,1,1,0.5,,,1,,2,2,,,ST0002,,0,Borehole,Yemkelo to call re: contract - Borehole,,,R0.00,1,,0
+,,1,1,KC0037,"29°24'28.9""S 31°14'21.9""E",0.5,Msizi Dube,9010205774086,35,0734964931,,7600,7/11/2025,,,,,,,,,,,,,,,,,,,,,,,,,0
+,,20,4,,,3.75,,,,,,49800,,,,3,3,3,1,0,1,1.5,0,3,3,0,,,"R3,360.25",0,,,R0.00,R0.00,R0.00,3,,1
